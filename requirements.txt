@@ -1,0 +1,8 @@
+# Core (required to run 01, 02, 03, and app.py as shipped)
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+streamlit
+
